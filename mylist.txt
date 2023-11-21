@@ -1,0 +1,4 @@
+file D:/TOOL/tool_truyen/pictures/test2/videos/1.jpg.mp4
+file D:/TOOL/tool_truyen/pictures/test2/videos/2.jpg.mp4
+file D:/TOOL/tool_truyen/pictures/test2/videos/3.jpg.mp4
+file D:/TOOL/tool_truyen/pictures/test2/videos/4.jpg.mp4
