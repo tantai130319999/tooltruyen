@@ -9,3 +9,5 @@
 - Thư mục đưa vào chỉ được có file ảnh - có file lạ sẽ gây lỗi
 - Tool cần call api đến server và google vision nên phải có mạng internet
 - Sẽ hay có lỗi bị nhiễu ở cuối các ảnh trong video, nếu ảnh hưởng quá nhiều đến chất lượng video có thể tùy chỉnh giọng đọc khác xong dùng capcut chỉnh lại giọng phù hợp, điều chỉnh thời gian cuối video để giảm nhiễu
+## Chức năng vẫn còn đang được cập nhập
+## Liên hệ fb or zalo để lấy key
